@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  color: black;
+}
+
+h1 {
+  background-color: black;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 48px;
+  color: white;
+}
+
+.iframe {
+  width: 0 auto;
+}
